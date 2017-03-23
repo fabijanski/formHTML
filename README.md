@@ -2,7 +2,9 @@
 
 ### Description
 
-My first steps with forms.
-SignUp form based on [PROJECT](https://dribbble.com/shots/2290346-Sign-Up)
+My first steps with forms. A bit of HTML, CSS and even less JS.
+SignUp form based on [Trevor's project](https://dribbble.com/shots/2290346-Sign-Up).
 
-[### Demo](https://github.com/fabijanski/formHTML)
+### Demo
+
+[Click me!](https://github.com/fabijanski/formHTML)
