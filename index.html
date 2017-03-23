@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans:300" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>SignUp Form</title>
+  </head>
+  <body>
+
+    <form id="form" class="clearfix">
+
+        <div class="left">
+          <h1 class="signUp">Sign up</h1>
+          <div class="box">
+            <input type="text" name="fullName" placeholder="Full name" required>
+          </div>
+          <div class="box">
+            <input type="email" name="eMail" placeholder="E-mail" required>
+          </div>
+          <div class="box">
+            <input id="pass" type="password" name="password" placeholder="Password" required>
+            <button id="btnPass" type="button">Show password</button>
+          </div>
+          <div class="box">
+            <input id="passConf" type="password" name="passwordConfirmation" placeholder="Confirm password" required>
+            <button id="btnPassConf" type="button" value="">Show password</button>
+          </div>
+        </div>
+
+        <div class="right">
+          <button class="submit">
+              <span>Next <i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
+          </button>
+          <p>Already have an account? <a id="logIn" href="#">Log in.</a></p>
+        </div>
+
+        <a href="#">
+          <div class="icon">
+            <i class="fa fa-times" aria-hidden="true"></i>
+          </div>
+        </a>
+        <!-- <div class="clear"></div> -->
+      </form>
+
+      <script type="text/javascript" src="app.js"></script>
+  </body>
+</html>
