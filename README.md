@@ -1,10 +1,8 @@
 # SignUp form
 
-## Description
+### Description
 
-SignUp form based on:
-https://dribbble.com/shots/2290346-Sign-Up
+My first steps with forms.
+SignUp form based on [PROJECT](https://dribbble.com/shots/2290346-Sign-Up)
 
-## Demo
-
-https://github.com/fabijanski/formHTML
+[### Demo](https://github.com/fabijanski/formHTML)
