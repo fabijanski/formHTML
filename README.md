@@ -7,4 +7,4 @@ SignUp form based on [Trevor's project](https://dribbble.com/shots/2290346-Sign-
 
 ### Demo
 
-[Click me!](https://github.com/fabijanski/formHTML)
+[Click me!](https://fabijanski.github.io/formHTML)
